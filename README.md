@@ -1,7 +1,1 @@
-#### Kim jestem
-Mam na imię Artur Pas, obecnie jestem studentem pierwszego roku informatyki na Uniwersytecie Rzeszowskim.
-
-#### Doświadczenie
-Niestety nie posiadam żadnego doświadczenia
-
-
+Witam na moim hithubie, jako że nie posiadam żadnego doświadczenia to miejsce jest jedyną rzeczą którą mogę pokazać. Poniżej znajdują się wybrane i według mnie najlepsze projekty inne znajdują się w repozytoriach.
