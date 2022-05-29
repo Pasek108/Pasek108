@@ -3,5 +3,7 @@
 * Jobless
 
 Intrested in:
-* Programming (JS, C, Python, Java) [spoj profile](https://pl.spoj.com/users/artur_pas/)
+* Programming (JS, [C](https://pl.spoj.com/users/artur_pas/), Python, Java)
+* Gaming ([Minesweaper](https://minesweeper.online/player/8472387), [LoL](https://www.leagueofgraphs.com/pl/summoner/eune/ZboczonyArtur), [Osu!](https://osu.ppy.sh/users/12291911)) 
+* Gym
 
