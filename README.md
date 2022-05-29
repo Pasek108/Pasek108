@@ -1,1 +1,3 @@
-Witam na moim hithubie, jako że nie posiadam żadnego doświadczenia to miejsce jest jedyną rzeczą którą mogę pokazać. Poniżej znajdują się wybrane i według mnie najlepsze projekty inne znajdują się w repozytoriach.
+# Hi, i'm Artur Pas
+Student at [Uniwersytet Rzeszowski](https://www.ur.edu.pl/kolegia/kolegium-nauk-przyrodniczych/student/kierunki/informatyka)
+Jobless :(
