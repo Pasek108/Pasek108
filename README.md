@@ -1,5 +1,5 @@
-<h1 align="center">:wave: Hello there, I'm Artur Pas :wave:</h1>
-<div align="center">
+<h1>:wave: Hello there, I'm Artur Pas :wave:</h1>
+<div>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Portfolio-202c59?style=for-the-badge&logo=About.me&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,14 +15,14 @@
 </div>
 
 
-<h1 align="center">:skull: About me</h1>
-<div align="center">
+<h1>:skull: About me</h1>
+<div>
   <ul>
     <li>:computer: 6 years of computer science and technology education</li>
     <li>:computer: 7 years of self learning </li>
     <li>:computer: 0 years of working experience. </li>
   </ul>
-  <p align="center">
+  <p>
     I'm a 2nd year CS student at <a href="https://www.ur.edu.pl/kolegia/kolegium-nauk-przyrodniczych/student/kierunki/informatyka">Uniwersytet Rzeszowski</a>. Currently I don't have a job. I'm interested in JavaScript
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pasek108&include_all_commits=true&show_icons=true&theme=radical&hide=contribs," />
@@ -30,8 +30,8 @@
     
 </div>
 
-<h1 align="center">My projects</h1>
-<div align="center">
+<h1>My projects</h1>
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=radical" />
   </a>
