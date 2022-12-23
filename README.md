@@ -15,32 +15,44 @@
 </div>
 
 
-## :skull: About me
-I'm a 2nd year CS student at [Uniwersytet Rzeszowski](https://www.ur.edu.pl/kolegia/kolegium-nauk-przyrodniczych/student/kierunki/informatyka)
+<h1 align="center">:skull: About me</h1>
+<div align="center">
+  <ul>
+    <li>:computer: 6 years of computer science and technology education</li>
+    <li>:computer: 7 years of self learning </li>
+    <li>:computer: 0 years of working experience. </li>
+  </ul>
+  <p align="center">
+    I'm a 2nd year CS student at <a href="https://www.ur.edu.pl/kolegia/kolegium-nauk-przyrodniczych/student/kierunki/informatyka">Uniwersytet Rzeszowski</a>. Currently I don't have a job. I'm interested in JavaScript
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pasek108&include_all_commits=true&show_icons=true&theme=radical&hide=contribs," />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasek108&layout=compact&show_icons=true&theme=radical&langs_count=6" />
+    
+</div>
 
 <h1 align="center">My projects</h1>
-<div id="badges" align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=ArturPasCV&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=RockPaperScissors&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=WhereInTheWorld&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=ArturPasCV&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=RockPaperScissors&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=WhereInTheWorld&theme=radical" />
+  </a>
 </div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasek108&layout=compact&langs_count=6" />
+
 
