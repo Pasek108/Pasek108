@@ -18,7 +18,7 @@
 &nbsp;
 
 ## :sunglasses: About me
-Self-taught programming passionate, student at university.
+Self-taught programming passionate, currently jobless university student.
 * **:triangular_flag_on_post: Current goal:** pass math related exams, find a job as junior developer
 * **:star_struck: Interested in:** frontend, problem solving, games, gym 
 * **:seedling: Currently learning:** Angular, Node.js, JavaSwing, JDBC, PyGame
