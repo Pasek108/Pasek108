@@ -31,6 +31,7 @@ Self-taught programming passionate, student at university.
     
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pasek108&include_all_commits=true&show_icons=true&theme=radical&hide=contribs," />
+  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasek108&layout=compact&show_icons=true&theme=radical&langs_count=6" />
 </div>
 
