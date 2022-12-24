@@ -33,7 +33,6 @@ Self-taught programming passionate, currently jobless university student.
   <a href="https://github.com/Pasek108">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pasek108&include_all_commits=true&show_icons=true&theme=radical&hide=contribs," />
   </a>
-  &nbsp;
   <a href="https://github.com/Pasek108">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasek108&layout=compact&show_icons=true&theme=radical&langs_count=6" />
   </a>
