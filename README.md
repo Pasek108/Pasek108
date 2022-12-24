@@ -39,37 +39,37 @@ Self-taught programming passionate, currently jobless university student.
 
 ## :open_file_folder: My projects
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Pasek108/ConnectGame">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=radical" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/Pasek108/ArturPasCV">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=ArturPasCV&theme=radical" />
   </a>
   
   <div>&nbsp;</div>
   
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/Pasek108/DeerKiller">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=radical" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Pasek108/BeFunge93Interpreter">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=radical" />
   </a>
   
   <div>&nbsp;</div>
   
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/Pasek108/Weather">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=radical" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Pasek108/RockPaperScissors">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=RockPaperScissors&theme=radical" />
   </a>
   
   <div>&nbsp;</div>
   
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/Pasek108/WhereInTheWorld">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasek108&repo=WhereInTheWorld&theme=radical" />
   </a>
 </div>
