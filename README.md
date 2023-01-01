@@ -2,15 +2,12 @@
 <a href="https://pas-artur.000webhostapp.com">
   <img src="https://img.shields.io/badge/Portfolio-202c59?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/artur-pas/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-&nbsp;
 <a href="https://codepen.io/Pasek108">
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
 </a>
-&nbsp;
 <a href="https://pl.spoj.com/users/artur_pas/">
   <img src="https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=C&logoColor=white" alt="Spoj Badge"/>
 </a>
