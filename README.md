@@ -19,12 +19,9 @@
 </a>
 <div>&nbsp;</div>
 
+## :sunglasses: About me
+
 <table>
-<tr>
-<td><h2>:sunglasses: About me</h2></td>
-<td align="right"><h2>What languages I'm using</h2></td>
-</tr>
-  
 <tr>
 <td>
 Self-taught programming passionate, currently jobless university student.<br>
