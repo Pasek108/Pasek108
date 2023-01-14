@@ -17,30 +17,28 @@
 <a href="https://pl.spoj.com/users/artur_pas/">
 <img src="https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=C&logoColor=white" alt="Spoj Badge"/>
 </a>
-<div>&nbsp;</div>
 
 ## :sunglasses: About me
+I'm a self-taught programming passionate, currently jobless university student.
 
 <table>
 <tr>
 <td>
-I'm a self-taught programming passionate, currently jobless university student.<br>
 <ul>
 <li><b>:triangular_flag_on_post: Current goal:</b> pass math related exams, find a job as junior developer</li>
+<br>
 <li><b>:star_struck: Interested in:</b> frontend, problem solving, games, gym</li>
+<br>
 <li><b>:seedling: Currently learning:</b> Angular, Node.js, JavaSwing, JDBC, PyGame</li>
+<br>
 <li><b>:briefcase: Experience:</b> none :frowning_face:</li>
+<br>
 <li><b>:man_student: Education:</b> 2nd year CS student at <a href="https://www.ur.edu.pl/kolegia/kolegium-nauk-przyrodniczych/student/kierunki/informatyka">Uniwersytet Rzeszowski</a></li>
 <ul>
 <li>4 years of Technical High School for Computer Science</li>
 <li>2 years of Universit</li>
 </ul>
 </ul>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 </td>
 <td align="right">
@@ -50,8 +48,6 @@ I'm a self-taught programming passionate, currently jobless university student.<
 </td>
 </tr>
 </table>
-
-&nbsp;
 
 ## :open_file_folder: My projects
 <div align="center">
