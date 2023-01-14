@@ -21,8 +21,8 @@
 
 <table>
 <tr>
-<td><h2>:sunglasses: About me<img width="501" height="1"></h2></td>
-<td align="right"><h2>What languages I'm using<img width="151" height="1"></h2></td>
+<td><h2>:sunglasses: About me<img width="441" height="1"></h2></td>
+<td align="right"><h2>What languages I'm using</h2></td>
 </tr>
   
 <tr>
