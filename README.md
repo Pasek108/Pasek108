@@ -24,7 +24,7 @@
 <table>
 <tr>
 <td>
-Self-taught programming passionate, currently jobless university student.<br>
+I'm a self-taught programming passionate, currently jobless university student.<br>
 <ul>
 <li><b>:triangular_flag_on_post: Current goal:</b> pass math related exams, find a job as junior developer</li>
 <li><b>:star_struck: Interested in:</b> frontend, problem solving, games, gym</li>
