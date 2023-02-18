@@ -88,6 +88,12 @@ I'm a self-taught programming passionate, currently jobless university student.
 <img align="center" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=WhereInTheWorld&theme=radical" />
 </a>
 &nbsp;&nbsp;
+<a href="[https://github.com/Pasek108/ArturPasCV](https://github.com/Pasek108/GoblinSlayer)">
+<img align="center" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=radical" />
+</a>
+   
+<div>&nbsp;</div>
+   
 <a href="https://github.com/Pasek108/ArturPasCV">
 <img align="center" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ArturPasCV&theme=radical" />
 </a>
