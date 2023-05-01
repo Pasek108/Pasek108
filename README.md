@@ -20,7 +20,7 @@
    
 I'm a computer science student at university and a graduate of a technical school in computer science. My hobby is programming, and I'm primarily self-taught. Currently, I have no commercial experience or job.
 - 🔍 Take a look at my projects on [my webiste](https://pas-artur.000webhostapp.com) and [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108)
-- 🚩 My current goal is to pass exams, find a job and reasons to live 
+- 🚩 My current goals are to pass exams, get a a job as junior-developer and find reasons to live 
 - 🌱 I'm currently learning: Angular
 - ⭐ I like programming, problem solving and learning
 </div>
@@ -148,7 +148,17 @@ I'm a computer science student at university and a graduate of a technical schoo
   <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a> 
+   
+<br><br>
 </div>
 
+<!-- ------------------- Links ------------------- -->
+<div align="center">
+   
+$\textcolor{gray}{\textsf{GIF animation by}}$ [Storyset](https://storyset.com/work)<br>
+$\textcolor{gray}{\textsf{GitHub readme stats by}}$ [anuraghazra](https://github.com/anuraghazra/github-readme-stats)<br>
+$\textcolor{gray}{\textsf{Badages by}}$ [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)<br>
+
+</div>
 
 
