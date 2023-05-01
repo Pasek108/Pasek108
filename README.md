@@ -92,43 +92,28 @@ I'm a self-taught programming passionate, currently jobless university student.
 <!-- ------------------- My projects ------------------- -->
 <div align="center">
 <h1 align="center">📂 My projects</h1>
-   
-<div align="center"> 
-   <a href="https://github.com/Pasek108/TicTacToe">
-      <img align="center" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark" />
-   </a>
-   &nbsp;&nbsp;
-   <a href="https://github.com/Pasek108/BeFunge93Interpreter">
-      <img align="center" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark" />
-   </a>
-</div><br>
-   
-<div align="center"> 
-   <a href="https://github.com/Pasek108/GoblinSlayer">
-      <img align="center" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark" />
-   </a>
-   &nbsp;&nbsp;   
-   <a href="https://github.com/Pasek108/Weather">
-      <img align="center" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=github_dark" />
-   </a>
-</div><br>
-   
-<div align="center"> 
-   <a href="https://github.com/Pasek108/ConnectGame">
-      <img align="center" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark" />
-   </a>
-   &nbsp;&nbsp;
-   <a href="https://github.com/Pasek108/DeerKiller">
-      <img align="center" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark" />
-   </a>
-</div><br>
-   
-<div align="center">  
-   <a href="https://github.com/Pasek108/TimeApp">
-      <img align="center" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark" />
-   </a>
-</div>
-   
+
+<a href="https://github.com/Pasek108/TicTacToe">
+   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866" />
+</a>
+<a href="https://github.com/Pasek108/BeFunge93Interpreter">
+   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866" />
+</a>   
+<a href="https://github.com/Pasek108/GoblinSlayer">
+   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark&icon_color=F8D866" />
+</a>
+<a href="https://github.com/Pasek108/Weather">
+   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=github_dark&icon_color=F8D866" />
+</a>
+<a href="https://github.com/Pasek108/ConnectGame">
+   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark&icon_color=F8D866" />
+</a>
+<a href="https://github.com/Pasek108/DeerKiller">
+   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866" />
+</a>
+<a href="https://github.com/Pasek108/TimeApp">
+   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866" />
+</a> 
 </div>
 
 
