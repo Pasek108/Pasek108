@@ -159,6 +159,7 @@ I'm a computer science student at university and a graduate of a technical schoo
 $\textcolor{gray}{\textsf{GIF animation by}}$ [Storyset](https://storyset.com/work)<br>
 $\textcolor{gray}{\textsf{GitHub readme stats by}}$ [anuraghazra](https://github.com/anuraghazra/github-readme-stats)<br>
 $\textcolor{gray}{\textsf{Badages by}}$ [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)<br>
+$\textcolor{gray}{\textsf{Readme inspired by}}$ [MelvinAguilar](https://github.com/MelvinAguilar)<br>
 
 </div>
 
