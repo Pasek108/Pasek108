@@ -25,7 +25,7 @@ I'm a computer science student at university and a graduate of a technical schoo
 - ⭐ I like programming, problem solving and learning
 </div>
 
-<img width="1000" /><br>
+<img width="1000" align="right" /><br>
 </div>
 
 <!-- ------------------- Languages and tools ------------------- -->
