@@ -10,9 +10,9 @@
 <br><br>  
 
 <picture>
-  <source align="right" width="300" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
-  <source align="right" width="300" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/42617662/235518979-72f4de65-f96f-4276-9b30-f2ff358e17b8.gif">
-  <img alt="coding gif" width="300" align="right" src="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
+  <source align="right" width="275" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
+  <source align="right" width="275" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/42617662/235518979-72f4de65-f96f-4276-9b30-f2ff358e17b8.gif">
+  <img alt="coding gif" width="275" align="right" src="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
 </picture>
 
 <div align="left">
@@ -20,11 +20,8 @@
 I'm a computer science student at university and a graduate of a technical school in computer science. My hobby is programming, and I'm primarily self-taught. Currently, I have no commercial experience or job.
    
 - 🔍 Take a look at my projects on [my webiste](https://pas-artur.000webhostapp.com) and [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108)
-   
-- 🚩 My current goals are to pass exams, get a a job as junior-developer and find reasons to live 
-   
+- 🚩 My current goals are to pass exams, get a job as a junior developer and find reasons to live 
 - 🌱 I'm currently learning: Angular
-   
 - ⭐ I like programming, problem solving and learning
 
 </div>
