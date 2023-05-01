@@ -18,9 +18,13 @@
 <div align="left">
 
 I'm a computer science student at university and a graduate of a technical school in computer science. My hobby is programming, and I'm primarily self-taught. Currently, I have no commercial experience or job.
+   
 - 🔍 Take a look at my projects on [my webiste](https://pas-artur.000webhostapp.com) and [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108)
+   
 - 🚩 My current goals are to pass exams, get a a job as junior-developer and find reasons to live 
+   
 - 🌱 I'm currently learning: Angular
+   
 - ⭐ I like programming, problem solving and learning
 
 </div>
