@@ -1,26 +1,14 @@
-# :wave: Hello there, I'm Artur Pas
-<a href="https://pas-artur.000webhostapp.com">
-<img src="https://img.shields.io/badge/Portfolio-202c59?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-</a>
-&nbsp;
-
-<a href="https://www.linkedin.com/in/artur-pas/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-&nbsp;
-
-<a href="https://codepen.io/Pasek108">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
-</a>
-&nbsp;
-
-<a href="https://pl.spoj.com/users/artur_pas/">
-<img src="https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=C&logoColor=white" alt="Spoj Badge"/>
-</a>
-
-<!-- ------------------- About me ------------------- -->
 <div align = "center">
-<h2 align="center">🐒 About me</h2>
+<h1 align="center">🐒 Hi, I'm Artur Pas</h1>
+   
+   
+[![Portfolio](https://img.shields.io/badge/My_website-202c59?style=for-the-badge&logo=About.me&logoColor=white)](https://pas-artur.000webhostapp.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white)](https://www.frontendmentor.io/profile/Pasek108)&nbsp;
+[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Pasek108)&nbsp;
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Artur%20Pas)&nbsp;
+[![SPOJ](https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=C&logoColor=white)](https://pl.spoj.com/users/artur_pas/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-pas/)&nbsp;
+<br><br>  
 
 I'm a self-taught programming passionate, currently jobless university student.
 
@@ -46,7 +34,7 @@ I'm a self-taught programming passionate, currently jobless university student.
 </td>
 </tr>
 </table>
-   
+<br> 
 </div>
 
 <!-- ------------------- Languages and tools ------------------- -->
@@ -58,11 +46,11 @@ I'm a self-taught programming passionate, currently jobless university student.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-<br><br>
+<br>
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-<br><br>
+<br>
 ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -75,7 +63,7 @@ I'm a self-taught programming passionate, currently jobless university student.
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-<br><br>
+<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -98,6 +86,7 @@ I'm a self-taught programming passionate, currently jobless university student.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+<br><br>
 </div>
 
 <!-- ------------------- My projects ------------------- -->
