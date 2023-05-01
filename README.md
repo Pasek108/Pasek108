@@ -1,4 +1,4 @@
-<div align = "center">
+<div align="center">
 <h1 align="center">🐒 Hi, I'm Artur Pas</h1>
    
 [![Portfolio](https://img.shields.io/badge/My_website-202c59?style=for-the-badge&logo=About.me&logoColor=white)](https://pas-artur.000webhostapp.com)&nbsp;
@@ -9,40 +9,28 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-pas/)&nbsp;
 <br><br>  
 
+<picture align="right">
+  <source align="right" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
+  <source align="right" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/42617662/235518979-72f4de65-f96f-4276-9b30-f2ff358e17b8.gif">
+  <img alt="" align="right" src="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
+</picture>
 
+<div align="left">
+<img width="200" /><br>
    
 I'm a computer science student at university and a graduate of a technical school in computer science. My hobby is programming, and I'm primarily self-taught. Currently, I have no commercial experience or job.
-   
-<table>
-<tr>
-<td>
-   <p>
-  
-   </p>
-   <ul>
-      <li><b>:triangular_flag_on_post: Current goal:</b> pass math related exams, find a job as junior developer</li><br>
-      <li><b>:star_struck: Interested in:</b> frontend, problem solving, games, gym</li><br>
-      <li><b>:seedling: Currently learning:</b> Angular, Node.js, JavaSwing, JDBC, PyGame</li><br>
-      <li><b>:briefcase: Experience:</b> none :frowning_face:</li><br>
-      <li><b>:man_student: Education:</b> 2nd year CS student at <a href="https://www.ur.edu.pl/kolegia/kolegium-nauk-przyrodniczych/student/kierunki/informatyka">Uniwersytet Rzeszowski</a></li>
-      <ul>
-         <li>4 years of Technical High School for Computer Science</li>
-         <li>2 years of Universit</li>
-      </ul>
-   </ul>
-</td>
-<td align="right">
-   <a href="https://github.com/Pasek108">
-      <img align="center" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=radical&langs_count=10" />
-   </a>
-</td>
-</tr>
-</table>
+- 🔍 Take a look at my projects on [my webiste](https://pas-artur.000webhostapp.com) and [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108)
+- 🚩 My current goal is to pass exams, find a job and reasons to live 
+- 🌱 I'm currently learning: Angular
+- ⭐ I like programming, problem solving and learning
+</div>
+
 <br> 
 </div>
 
 <!-- ------------------- Languages and tools ------------------- -->
-<div align = "center">
+<div align="center">
+<img width="1000" /><br>
 <h1 align="center">🛠️ Languages and Tools</h1>
 
 <h3>🦋 Frontend</h3>
@@ -91,12 +79,13 @@ I'm a computer science student at university and a graduate of a technical schoo
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 <br><br>
-   
-   
-  ![Hand coding](https://user-images.githubusercontent.com/42617662/235514788-d9db882c-e087-4ea3-8eda-53988c61c06e.gif)
- 
-   
-<img align="center" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&layout=compact&size_weight=0.5&count_weight=0.5&card_width=750&langs_count=10" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&layout=compact&size_weight=0.5&count_weight=0.5&card_width=750&langs_count=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&layout=compact&size_weight=0.5&count_weight=0.5&card_width=750&langs_count=10">
+  <img align="center" alt="Github stats languages" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&layout=compact&size_weight=0.5&count_weight=0.5&card_width=750&langs_count=10" />
+</picture>
+
 <br><br>
 </div>
 
@@ -105,25 +94,59 @@ I'm a computer science student at university and a graduate of a technical schoo
 <h1 align="center">📂 My projects</h1>
 
 <a href="https://github.com/Pasek108/TicTacToe">
-   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866">
+  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe">
+  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866" />
+</picture>
 </a>
+   
 <a href="https://github.com/Pasek108/BeFunge93Interpreter">
-   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866">
+  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter">
+  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866" />
+</picture>
 </a>   
+   
 <a href="https://github.com/Pasek108/GoblinSlayer">
-   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark&icon_color=F8D866" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark&icon_color=F8D866">
+  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer">
+  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark&icon_color=F8D866" />
+</picture>
 </a>
+   
 <a href="https://github.com/Pasek108/Weather">
-   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=github_dark&icon_color=F8D866" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=github_dark&icon_color=F8D866">
+  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather">
+  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=github_dark&icon_color=F8D866" />
+</picture>
 </a>
+   
 <a href="https://github.com/Pasek108/ConnectGame">
-   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark&icon_color=F8D866" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark&icon_color=F8D866">
+  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame">
+  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark&icon_color=F8D866" />
+</picture>
 </a>
+   
 <a href="https://github.com/Pasek108/DeerKiller">
-   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866">
+  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller">
+  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866" />
+</picture>
 </a>
+   
 <a href="https://github.com/Pasek108/TimeApp">
-   <img src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866">
+  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp">
+  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866" />
+</picture>
 </a> 
 </div>
 
