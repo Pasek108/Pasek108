@@ -25,12 +25,11 @@ I'm a computer science student at university and a graduate of a technical schoo
 - ⭐ I like programming, problem solving and learning
 </div>
 
-<br> 
+<img width="1000" /><br>
 </div>
 
 <!-- ------------------- Languages and tools ------------------- -->
 <div align="center">
-<img width="1000" /><br>
 <h1 align="center">🛠️ Languages and Tools</h1>
 
 <h3>🦋 Frontend</h3>
