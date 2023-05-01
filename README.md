@@ -23,6 +23,7 @@ I'm a computer science student at university and a graduate of a technical schoo
 - 🚩 My current goals are to pass exams, get a job as a junior developer and find reasons to live 
 - 🌱 I'm currently learning: Angular
 - ⭐ I like programming, problem solving and learning
+- ❤️ My favorite technology is JS+CSS
 
 </div>
    
