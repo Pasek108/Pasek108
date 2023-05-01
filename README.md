@@ -9,10 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-pas/)&nbsp;
 <br><br>  
 
-<picture align="right">
-  <source align="right" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
-  <source align="right" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/42617662/235518979-72f4de65-f96f-4276-9b30-f2ff358e17b8.gif">
-  <img alt="" align="right" src="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
+<picture>
+  <source align="right" width="300" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
+  <source align="right" width="300" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/42617662/235518979-72f4de65-f96f-4276-9b30-f2ff358e17b8.gif">
+  <img alt="coding gif" width="300" align="right" src="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
 </picture>
 
 <div align="left">
@@ -22,7 +22,7 @@ I'm a computer science student at university and a graduate of a technical schoo
 - 🚩 My current goals are to pass exams, get a a job as junior-developer and find reasons to live 
 - 🌱 I'm currently learning: Angular
 - ⭐ I like programming, problem solving and learning
-<br><br><br><br><br><br>
+
 </div>
    
 <br><br>
