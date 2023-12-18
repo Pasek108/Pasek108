@@ -16,18 +16,13 @@
 <img alt="monkey coding gif" width="100%" src="/imgs/_for_readme/monkey_coding.webp">
 </div>
 
-# :monkey_face: Who am I?
+<h1 align="center">🐵 About me</h1>
 I'm a computer science student and a graduate of a technical school in computer science. My hobby is programming and I'm primarily self-taught. At this moment I have no commercial experience nor a job.
 <br><br>
 
-<picture>
-  <source align="right" width="275" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
-  <source align="right" width="275" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/42617662/235518979-72f4de65-f96f-4276-9b30-f2ff358e17b8.gif">
-  <img alt="coding gif" width="275" align="right" src="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
-</picture>
-
 - 🌱 I'm currently learning: Figma, Linux
-- 🔭 I’m working on: prolog interpreter with visualisation and logic gates simulator
+- 🔭 I’m working on: prolog interpreter with visualisation, logic gates simulator
+- 🚩 My goal is just to be a happy normal human being
 - 🔍 Take a look at my projects on my [Portfolio](https://pas-artur.000webhostapp.com) or [CodePen](https://codepen.io/Pasek108)
 - ⭐ I like to solve problems and challenge myself on coding platforms:
   - [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108) - web development challenges
@@ -35,8 +30,6 @@ I'm a computer science student and a graduate of a technical school in computer 
   - [LeetCode](https://leetcode.com/ArturPas/) - coding and algorithmic problems used as a resource for technical interviews. Problems are short and focused on solution time and space complexity 
   - [Codewars](https://www.codewars.com/users/Artur%20Pas) - gamified coding challenges. Problems can be long but solution has to just pass the tests and execute under the time limit
   - [SPOJ](https://pl.spoj.com/users/artur_pas/) - online judge system with many programming problems. Challanges are often described with stories, similar to school competitions
-
-
 
 <!-- ------------------- Languages and tools ------------------- -->
 <div align="center">
@@ -157,8 +150,6 @@ I'm a computer science student and a graduate of a technical school in computer 
   <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a> 
-   
-<br><br>
 </div>
 
 <!-- ------------------- Links ------------------- 
@@ -171,4 +162,11 @@ $\textcolor{gray}{\textsf{Portfolio icons created by}}$ [Freepik - Flaticon](htt
 $\textcolor{gray}{\textsf{Linkedin icons created by}}$ [riajulislam - Flaticon](https://www.flaticon.com/free-icons/linkedin)<br>
 $\textcolor{gray}{\textsf{Readme inspired by}}$ [MelvinAguilar](https://github.com/MelvinAguilar)<br>
 
-</div>-->
+</div>
+
+<picture>
+  <source align="right" width="275" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
+  <source align="right" width="275" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/42617662/235518979-72f4de65-f96f-4276-9b30-f2ff358e17b8.gif">
+  <img alt="coding gif" width="275" align="right" src="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
+</picture>
+-->
