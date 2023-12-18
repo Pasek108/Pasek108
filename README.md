@@ -1,20 +1,20 @@
 <div align="center">
 <h1 align="center">🐒 Hi, I'm Artur Pas</h1>
 
+[![Portfolio](https://img.shields.io/badge/My_website-202c59?style=for-the-badge&logoColor=white)](https://pas-artur.000webhostapp.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-pas/)&nbsp;
 
-
-<img alt="coding gif" width="100%" height="400" src="/imgs/monkey_coding.webp">
+<img alt="coding gif" width="100%" src="/imgs/monkey_coding.webp">
 
 <br>  
 
-[![Portfolio](https://img.shields.io/badge/My_website-202c59?style=for-the-badge&logoColor=white)](https://pas-artur.000webhostapp.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white)](https://www.frontendmentor.io/profile/Pasek108)&nbsp;
 [![CSSBattle](https://img.shields.io/badge/CSSBattle-181D23?style=for-the-badge&logo=css3&logoColor=FFDF00)](https://cssbattle.dev/player/artur_pas)&nbsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ArturPas/)&nbsp;
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Artur%20Pas)&nbsp;
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Pasek108)&nbsp;
 [![SPOJ](https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=spoj&logoColor=white)](https://pl.spoj.com/users/artur_pas/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-pas/)&nbsp;
+
 
 <picture>
   <source align="right" width="275" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
