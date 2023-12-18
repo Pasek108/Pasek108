@@ -14,7 +14,7 @@
 [![SPOJ](https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=spoj&logoColor=white)](https://pl.spoj.com/users/artur_pas/)&nbsp;
 
 <img alt="monkey coding gif" width="100%" src="/imgs/_for_readme/monkey_coding.webp">
-<br><br>  
+<br><br>
 
 <picture>
   <source align="right" width="275" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
@@ -160,7 +160,7 @@ I'm a computer science student at university and a graduate of a technical schoo
 <br><br>
 </div>
 
-<!-- ------------------- Links ------------------- -->
+<!-- ------------------- Links ------------------- 
 <div align="center">
    
 $\textcolor{gray}{\textsf{GIF animation by}}$ [Storyset](https://storyset.com/work)<br>
@@ -170,4 +170,4 @@ $\textcolor{gray}{\textsf{Portfolio icons created by}}$ [Freepik - Flaticon](htt
 $\textcolor{gray}{\textsf{Linkedin icons created by}}$ [riajulislam - Flaticon](https://www.flaticon.com/free-icons/linkedin)<br>
 $\textcolor{gray}{\textsf{Readme inspired by}}$ [MelvinAguilar](https://github.com/MelvinAguilar)<br>
 
-</div>
+</div>-->
