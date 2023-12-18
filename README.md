@@ -1,7 +1,7 @@
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="48" align="left" src="/imgs/_for_readme/linkedin.png"></a>
   🐒 Hi, I'm Artur Pas
-  <a href="https://pas-artur.000webhostapp.com"><img alt="portfolio icon" width="48" align="right" src="/imgs/_for_readme/portfolio.png"></a>
+  <a href="https://pas-artur.000webhostapp.com"><img alt="portfolio icon" width="36" align="center" src="/imgs/_for_readme/portfolio.png"></a>
+  <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="32" align="center" src="/imgs/_for_readme/linkedin.png"></a>
 </h1>
 
 <div align="center">
@@ -14,8 +14,7 @@
 [![SPOJ](https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=spoj&logoColor=white)](https://pl.spoj.com/users/artur_pas/)&nbsp;
 
 <img alt="monkey coding gif" width="100%" src="/imgs/_for_readme/monkey_coding.webp">
-
-<br>  
+<br><br>  
 
 <picture>
   <source align="right" width="275" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
