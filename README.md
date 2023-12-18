@@ -1,12 +1,11 @@
-<div align="center">
 <h1 align="center">
   🐒 Hi, I'm Artur Pas
-  
-  [![Portfolio](/imgs/_for_readme/portfolio.png)](https://pas-artur.000webhostapp.com)&nbsp;
-  [![LinkedIn](/imgs/_for_readme/linkedin.png)](https://www.linkedin.com/in/artur-pas/)&nbsp;
-  
+  <a href="https://pas-artur.000webhostapp.com"><img alt="portfolio icon" width="36" align="center" src="/imgs/_for_readme/portfolio.png"></a>
+  <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="32" align="center" src="/imgs/_for_readme/linkedin.png"></a>
 </h1>
 
+<div align="center">
+  
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white)](https://www.frontendmentor.io/profile/Pasek108)&nbsp;
 [![CSSBattle](https://img.shields.io/badge/CSSBattle-181D23?style=for-the-badge&logo=css3&logoColor=FFDF00)](https://cssbattle.dev/player/artur_pas)&nbsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ArturPas/)&nbsp;
@@ -14,9 +13,8 @@
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Pasek108)&nbsp;
 [![SPOJ](https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=spoj&logoColor=white)](https://pl.spoj.com/users/artur_pas/)&nbsp;
 
-<img alt="coding gif" width="100%" src="/imgs/monkey_coding.webp">
-
-<br>  
+<img alt="monkey coding gif" width="100%" src="/imgs/_for_readme/monkey_coding.webp">
+<br><br>  
 
 <picture>
   <source align="right" width="275" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
