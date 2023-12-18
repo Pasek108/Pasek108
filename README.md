@@ -14,6 +14,10 @@
 [![SPOJ](https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=spoj&logoColor=white)](https://pl.spoj.com/users/artur_pas/)&nbsp;
 
 <img alt="monkey coding gif" width="100%" src="/imgs/_for_readme/monkey_coding.webp">
+</div>
+
+# :monkey_face: Who am I?
+I'm a computer science student and a graduate of a technical school in computer science. My hobby is programming and I'm primarily self-taught. At this moment I have no commercial experience nor a job.
 <br><br>
 
 <picture>
@@ -22,20 +26,17 @@
   <img alt="coding gif" width="275" align="right" src="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
 </picture>
 
-<div align="left">
+- 🌱 I'm currently learning: Figma, Linux
+- 🔭 I’m working on: prolog interpreter with visualisation and logic gates simulator
+- 🔍 Take a look at my projects on my [Portfolio](https://pas-artur.000webhostapp.com) or [CodePen](https://codepen.io/Pasek108)
+- ⭐ I like to solve problems and challenge myself on coding platforms:
+  - [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108) - web development challenges
+  - [CSSBattle](https://cssbattle.dev/player/artur_pas) - fun CSS challenges with goal to recreate target images with the least code length possible
+  - [LeetCode](https://leetcode.com/ArturPas/) - coding and algorithmic problems used as a resource for technical interviews. Problems are short and focused on solution time and space complexity 
+  - [Codewars](https://www.codewars.com/users/Artur%20Pas) - gamified coding challenges. Problems can be long but solution has to just pass the tests and execute under the time limit
+  - [SPOJ](https://pl.spoj.com/users/artur_pas/) - online judge system with many programming problems. Challanges are often described with stories, similar to school competitions
 
-I'm a computer science student at university and a graduate of a technical school in computer science. My hobby is programming, and I'm primarily self-taught. Currently, I have no commercial experience or job.
-   
-- 🔍 Take a look at my projects on [my webiste](https://pas-artur.000webhostapp.com) and [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108)
-- 🚩 My current goals are to pass exams, get a job as a junior developer and find reasons to live 
-- 🌱 I'm currently learning: Angular
-- ⭐ I like programming, problem solving and learning
-- ❤️ My favorite technology is JS+CSS
 
-</div>
-   
-<br><br>
-</div>
 
 <!-- ------------------- Languages and tools ------------------- -->
 <div align="center">
