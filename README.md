@@ -60,7 +60,7 @@
 ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-<br><br>
+<br>
 
 <h3>⚙️ Backend and 🗄️ Databases</h3>
    
@@ -73,7 +73,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-<br><br>
+<br>
    
 <h3>📑 Other</h3>
    
@@ -82,7 +82,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)&nbsp;
-<br><br>
+<br>
 
 <h3>💻 Software and Tools</h3>
    
@@ -92,11 +92,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-<br><br>
 
-
-
-<br><br>
 </div>
 </details> 
 
@@ -106,77 +102,58 @@
 <div align="center">
 <a href="https://github.com/Pasek108/TicTacToe">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866">
-  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe">
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe">
   <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>
    
 <a href="https://github.com/Pasek108/BeFunge93Interpreter">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866">
-  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter">
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter">
   <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>   
    
 <a href="https://github.com/Pasek108/GoblinSlayer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark&icon_color=F8D866">
-  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer">
-  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark&icon_color=F8D866" />
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>
    
 <a href="https://github.com/Pasek108/Weather">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=github_dark&icon_color=F8D866">
-  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather">
-  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=github_dark&icon_color=F8D866" />
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Weather&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>
    
 <a href="https://github.com/Pasek108/ConnectGame">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark&icon_color=F8D866">
-  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame">
-  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark&icon_color=F8D866" />
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>
    
 <a href="https://github.com/Pasek108/DeerKiller">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866">
-  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller">
-  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866" />
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>
    
 <a href="https://github.com/Pasek108/TimeApp">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866">
-  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp">
-  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866" />
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a> 
 </div>
 </details> 
-
-<!-- ------------------- Links ------------------- 
-<div align="center">
-   
-$\textcolor{gray}{\textsf{GIF animation by}}$ [Storyset](https://storyset.com/work)<br>
-$\textcolor{gray}{\textsf{GitHub readme stats by}}$ [anuraghazra](https://github.com/anuraghazra/github-readme-stats)<br>
-$\textcolor{gray}{\textsf{Badages by}}$ [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)<br>
-$\textcolor{gray}{\textsf{Portfolio icons created by}}$ [Freepik - Flaticon](https://www.flaticon.com/free-icons/portfolio)<br>
-$\textcolor{gray}{\textsf{Linkedin icons created by}}$ [riajulislam - Flaticon](https://www.flaticon.com/free-icons/linkedin)<br>
-$\textcolor{gray}{\textsf{Readme inspired by}}$ [MelvinAguilar](https://github.com/MelvinAguilar)<br>
-
-</div>
-
-<picture>
-  <source align="right" width="275" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
-  <source align="right" width="275" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/42617662/235518979-72f4de65-f96f-4276-9b30-f2ff358e17b8.gif">
-  <img alt="coding gif" width="275" align="right" src="https://user-images.githubusercontent.com/42617662/235518971-8ec41ee7-4472-430d-902a-f7c48259da1b.gif">
-</picture>
--->
