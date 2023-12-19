@@ -13,7 +13,7 @@
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Pasek108)&nbsp;
 [![SPOJ](https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=spoj&logoColor=white)](https://pl.spoj.com/users/artur_pas/)&nbsp;
 
-<img alt="monkey coding gif" width="100%" src="/imgs/_for_readme/monkey_coding.webp">
+<img alt="monkey coding gif" width="100%" height="400" src="/imgs/_for_readme/monkey_coding.webp">
 </div>
 
 <h1 align="center">🐵 About me</h1>
