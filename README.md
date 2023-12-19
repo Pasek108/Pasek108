@@ -32,8 +32,14 @@ I'm a computer science student and a graduate of a technical school in computer 
   - [SPOJ](https://pl.spoj.com/users/artur_pas/) - online judge system with many programming problems. Challanges are often described with stories, similar to school competitions
 
 <!-- ------------------- Languages and tools ------------------- -->
-<div align="center">
 <h1 align="center">🛠️ Languages and Tools</h1>
+
+<div align="left">
+<picture>
+  <source align="right" width="400" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=350&langs_count=20">
+  <source align="right" width="400" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&size_weight=0.5&count_weight=0.5&card_width=350&langs_count=20">
+  <img align="right" width="400" alt="Github stats languages" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=350&langs_count=20" />
+</picture>
 
 <h3>🦋 Frontend</h3>
    
@@ -82,11 +88,7 @@ I'm a computer science student and a graduate of a technical school in computer 
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&layout=compact&size_weight=0.5&count_weight=0.5&card_width=750&langs_count=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&layout=compact&size_weight=0.5&count_weight=0.5&card_width=750&langs_count=10">
-  <img align="center" alt="Github stats languages" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&layout=compact&size_weight=0.5&count_weight=0.5&card_width=750&langs_count=10" />
-</picture>
+
 
 <br><br>
 </div>
