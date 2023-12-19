@@ -16,9 +16,11 @@
 <img alt="monkey coding gif" width="100%" height="400" src="/imgs/_for_readme/monkey_coding.webp">
 </div>
 
-<h1 align="center">🐵 About me</h1>
-I'm a computer science student and a graduate of a technical school in computer science. My hobby is programming and I'm primarily self-taught. At this moment I have no commercial experience nor a job.
-<br><br>
+<details open> 
+  <summary><h2>🐵 About me</h2></summary>
+  <div>
+  I'm a computer science student and a graduate of a technical school in computer science. My hobby is programming and I'm primarily self-taught. At this moment I have no commercial experience nor a job.
+  <br><br>
 
 - 🌱 I'm currently learning: Figma, Linux
 - 🔭 I’m working on: prolog interpreter with visualisation, logic gates simulator
@@ -31,8 +33,12 @@ I'm a computer science student and a graduate of a technical school in computer 
   - [Codewars](https://www.codewars.com/users/Artur%20Pas) - gamified coding challenges. Problems can be long but solution has to just pass the tests and execute under the time limit
   - [SPOJ](https://pl.spoj.com/users/artur_pas/) - online judge system with many programming problems. Challanges are often described with stories, similar to school competitions
 
+</div>
+</details> 
+
 <!-- ------------------- Languages and tools ------------------- -->
-<h1 align="center">🛠️ Languages and Tools</h1>
+<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
 <div align="left">
 <picture>
@@ -92,16 +98,17 @@ I'm a computer science student and a graduate of a technical school in computer 
 
 <br><br>
 </div>
+</details> 
 
 <!-- ------------------- My projects ------------------- -->
+<details> 
+  <summary><h2>📂 My projects</h2></summary>
 <div align="center">
-<h1 align="center">📂 My projects</h1>
-
 <a href="https://github.com/Pasek108/TicTacToe">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866">
   <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe">
-  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866" />
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>
    
@@ -109,7 +116,7 @@ I'm a computer science student and a graduate of a technical school in computer 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866">
   <source media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter">
-  <img alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866" />
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>   
    
@@ -153,6 +160,7 @@ I'm a computer science student and a graduate of a technical school in computer 
 </picture>
 </a> 
 </div>
+</details> 
 
 <!-- ------------------- Links ------------------- 
 <div align="center">
