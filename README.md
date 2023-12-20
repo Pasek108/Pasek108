@@ -100,7 +100,7 @@
 </div>
 </details> 
 
-<br><br><br>
+<br>
 
 <!-- ------------------- My projects ------------------- -->
 <details open> 
