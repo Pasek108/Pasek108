@@ -65,9 +65,9 @@
 
 <h3>🧰 Frameworks and Libraries</h3>
 <p>
-  <img alt="Less" src="https://img.shields.io/badge/less-2B4C80?logo=less&logoColor=white">
+  <img alt="Less" src="https://img.shields.io/badge/LESS-2B4C80?logo=less&logoColor=white">
   <img alt="Scss" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
@@ -80,7 +80,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   <img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white">
-  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">
 </p>
    
 <h3>💻 Software and Tools</h3>
@@ -89,16 +89,18 @@
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green">
   <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
   <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-F37623?logo=xampp&logoColor=white">
-  <img alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white">
+  <img alt="FIGMA" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
   <img alt="GIMP" src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white">
   <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
   <img alt="Vivaldi" src="https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 </p>
 </div>
 </details> 
+
+<br><br><br>
 
 <!-- ------------------- My projects ------------------- -->
 <details open> 
