@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="32" align="center" src="/imgs/_for_readme/linkedin.png"></a>
 </h1>
 
-![](https://leetcard.jacoblin.cool/ArturPas?height=195) ![](https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C)
+<img alt="" width="49.75%" src="https://leetcard.jacoblin.cool/ArturPas?height=195"> <img alt="" width="49.75%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">
 
 <div align="center">
   
