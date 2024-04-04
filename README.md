@@ -4,6 +4,8 @@
   <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="32" align="center" src="/imgs/_for_readme/linkedin.png"></a>
 </h1>
 
+![](https://leetcard.jacoblin.cool/ArturPas?height=195) ![](https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C)
+
 <div align="center">
   
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white)](https://www.frontendmentor.io/profile/Pasek108)&nbsp;
