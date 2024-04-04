@@ -1,11 +1,11 @@
 <h1 align="center">
-  🐒 Hi, I'm Artur Pas
-  <a href="https://pas-artur.000webhostapp.com"><img alt="portfolio icon" width="36" align="center" src="/imgs/_for_readme/portfolio.png"></a>
-  <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="32" align="center" src="/imgs/_for_readme/linkedin.png"></a>
+  🐒 Hi, I'm Artur Pas 🐒
+  <!-- <a href="https://pas-artur.000webhostapp.com"><img alt="portfolio icon" width="36" align="center" src="/imgs/_for_readme/portfolio.png"></a>
+  <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="32" align="center" src="/imgs/_for_readme/linkedin.png"></a> -->
 </h1>
 
 <div align="center">
-  
+
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white)](https://www.frontendmentor.io/profile/Pasek108)&nbsp;
 [![CSSBattle](https://img.shields.io/badge/CSSBattle-181D23?style=for-the-badge&logo=css3&logoColor=FFDF00)](https://cssbattle.dev/player/artur_pas)&nbsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ArturPas/)&nbsp;
@@ -32,7 +32,7 @@
   - [CSSBattle](https://cssbattle.dev/player/artur_pas) - fun CSS challenges with goal to recreate target images with the least code length possible
   - [LeetCode](https://leetcode.com/ArturPas/) - coding and algorithmic problems used as a resource for technical interviews. Problems are short and focused on solution time and space complexity 
   - [Codewars](https://www.codewars.com/users/Artur%20Pas) - gamified coding challenges. Problems can be long but solution has to just pass the tests and execute under the time limit
-  - [SPOJ](https://pl.spoj.com/users/artur_pas/) - online judge system with many programming problems. Challanges are often described with stories, similar to school competitions
+  - [SPOJ (PL)](https://pl.spoj.com/users/artur_pas/) - online judge system with many programming problems. Challanges are often described with stories, similar to school competitions
 
 </div>
 </details> 
