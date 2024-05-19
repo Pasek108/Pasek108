@@ -168,11 +168,11 @@
 </picture>
 </a>   
 
-<a href="https://github.com/Pasek108/FM-RockPaperScissorss">
+<a href="https://github.com/Pasek108/FM-RockPaperScissors">
 <picture>
-  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissorss&theme=github_dark&icon_color=F8D866">
-  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissorss">
-  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissorss&theme=github_dark&icon_color=F8D866" />
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissors&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissors">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissors&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>
    
