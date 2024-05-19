@@ -13,9 +13,10 @@
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Pasek108)&nbsp;
 [![SPOJ](https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=spoj&logoColor=white)](https://pl.spoj.com/users/artur_pas/)&nbsp;
 
+
 <img alt="monkey coding gif" width="100%" height="400" src="/imgs/_for_readme/monkey_coding.webp">
-<img alt="" width="49.5%" src="https://leetcard.jacoblin.cool/ArturPas?height=195"> <img alt="" width="49.5%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">
-</div>
+<!--<img alt="" width="49.5%" src="https://leetcard.jacoblin.cool/ArturPas?height=195"> <img alt="" width="49.5%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">-->
+</div> 
 
 <details open> 
   <summary><h2>🐵 About me</h2></summary>
@@ -37,7 +38,7 @@
 </div>
 </details> 
 
-<!-- ------------------- Languages and tools ------------------- -->
+<!-- ------------------- Languages and tools -------------------
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -102,7 +103,7 @@
 </details> 
 
 <br>
-
+ -->
 <!-- ------------------- My projects ------------------- -->
 <details open> 
   <summary><h2>📂 My projects</h2></summary>
@@ -130,6 +131,30 @@
   <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>
+
+<a href="https://github.com/Pasek108/DeerKiller">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>
+
+<a href="https://github.com/Pasek108/CSSBattle-Solutions">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=CSSBattle-Solutions&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>   
+
+<a href="https://github.com/Pasek108/Codewars-Solutions">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Codewars-Solutions&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>   
    
 <a href="https://github.com/Pasek108/Weather">
 <picture>
@@ -144,14 +169,6 @@
   <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark&icon_color=F8D866">
   <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame">
   <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=ConnectGame&theme=github_dark&icon_color=F8D866" />
-</picture>
-</a>
-   
-<a href="https://github.com/Pasek108/DeerKiller">
-<picture>
-  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866">
-  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller">
-  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>
    
