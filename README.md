@@ -28,7 +28,7 @@
   I'm a computer science student and a graduate of a technical school in computer science. My hobby is programming and I'm primarily self-taught. At this moment I have no commercial experience nor a job.
   <br><br>
 
-- 🌱 I'm currently learning: Spring, Haskell, 
+- 🌱 I'm currently learning: Spring, Neo4j, Haskell, Prolog  
 - 🔭 I’m working on: my Codewars and LeetCode solutions showcase, logic gates simulator
 - 🚩 My goal is just to be a happy normal human being
 - 🔍 Take a look at my projects below and on [CodePen](https://codepen.io/Pasek108)
