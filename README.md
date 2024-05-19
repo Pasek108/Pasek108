@@ -142,16 +142,16 @@
 
 <a href="https://github.com/Pasek108/CSSBattle-Solutions">
 <picture>
-  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866">
-  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter">
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=CSSBattle-Solutions&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=CSSBattle-Solutions">
   <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=CSSBattle-Solutions&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>   
 
 <a href="https://github.com/Pasek108/Codewars-Solutions">
 <picture>
-  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter&theme=github_dark&icon_color=F8D866">
-  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=BeFunge93Interpreter">
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Codewars-Solutions&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Codewars-Solutions">
   <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Codewars-Solutions&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>   
