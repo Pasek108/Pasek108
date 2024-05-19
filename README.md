@@ -15,7 +15,10 @@
 
 
 <img alt="monkey coding gif" width="100%" height="400" src="/imgs/_for_readme/monkey_coding.webp">
-<!--<img alt="" width="49.5%" src="https://leetcard.jacoblin.cool/ArturPas?height=195"> <img alt="" width="49.5%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">-->
+<!--
+<img alt="" width="49.5%" src="https://leetcard.jacoblin.cool/ArturPas?height=195"> <img alt="" width="49.5%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">
+[Portfolio](https://pas-artur.000webhostapp.com)
+-->
 </div> 
 
 <details open> 
@@ -27,7 +30,7 @@
 - 🌱 I'm currently learning: Figma, Linux
 - 🔭 I’m working on: prolog interpreter with visualisation, logic gates simulator
 - 🚩 My goal is just to be a happy normal human being
-- 🔍 Take a look at my projects on my [Portfolio](https://pas-artur.000webhostapp.com) or [CodePen](https://codepen.io/Pasek108)
+- 🔍 Take a look at my projects below and on [CodePen](https://codepen.io/Pasek108)
 - ⭐ I like to solve problems and challenge myself on coding platforms:
   - [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108) - web development challenges
   - [CSSBattle](https://cssbattle.dev/player/artur_pas) - fun CSS challenges with goal to recreate target images with the least code length possible
@@ -108,6 +111,7 @@
 <details open> 
   <summary><h2>📂 My projects</h2></summary>
 <div align="center">
+  
 <a href="https://github.com/Pasek108/TicTacToe">
 <picture>
   <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866">
@@ -155,6 +159,22 @@
   <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Codewars-Solutions&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>   
+
+<a href="https://github.com/Pasek108/FM-WhereInTheWorld">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-WhereInTheWorld&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-WhereInTheWorld">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-WhereInTheWorld&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>   
+
+<a href="https://github.com/Pasek108/FM-RockPaperScissorss">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissorss&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissorss">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissorss&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>
    
 <a href="https://github.com/Pasek108/Weather">
 <picture>
@@ -179,5 +199,14 @@
   <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a> 
+
+<a href="https://github.com/Pasek108/FM-LaunchCountdownTimer">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-LaunchCountdownTimer&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-LaunchCountdownTimer">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-LaunchCountdownTimer&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>
+
 </div>
 </details> 
