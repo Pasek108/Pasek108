@@ -28,8 +28,8 @@
   I'm a computer science student and a graduate of a technical school in computer science. My hobby is programming and I'm primarily self-taught. At this moment I have no commercial experience nor a job.
   <br><br>
 
-- 🌱 I'm currently learning: Figma, Linux
-- 🔭 I’m working on: prolog interpreter with visualisation, logic gates simulator
+- 🌱 I'm currently learning: Spring, Haskell, 
+- 🔭 I’m working on: my Codewars and LeetCode solutions showcase, logic gates simulator
 - 🚩 My goal is just to be a happy normal human being
 - 🔍 Take a look at my projects below and on [CodePen](https://codepen.io/Pasek108)
 - ⭐ I like to solve problems and challenge myself on coding platforms:
