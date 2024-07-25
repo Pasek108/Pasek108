@@ -1,20 +1,26 @@
 <h1 align="center">
-  🐒 Hi, I'm Artur Pas
-  <a href="https://pas-artur.000webhostapp.com"><img alt="portfolio icon" width="36" align="center" src="/imgs/_for_readme/portfolio.png"></a>
-  <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="32" align="center" src="/imgs/_for_readme/linkedin.png"></a>
+  🐒 Hi, I'm Artur Pas 🐒
+  <!-- <a href="https://pas-artur.000webhostapp.com"><img alt="portfolio icon" width="36" align="center" src="/imgs/_for_readme/portfolio.png"></a>
+  <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="32" align="center" src="/imgs/_for_readme/linkedin.png"></a> -->
 </h1>
 
 <div align="center">
-  
+
+ <!--
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white)](https://www.frontendmentor.io/profile/Pasek108)&nbsp;
 [![CSSBattle](https://img.shields.io/badge/CSSBattle-181D23?style=for-the-badge&logo=css3&logoColor=FFDF00)](https://cssbattle.dev/player/artur_pas)&nbsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ArturPas/)&nbsp;
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Artur%20Pas)&nbsp;
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Pasek108)&nbsp;
 [![SPOJ](https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=spoj&logoColor=white)](https://pl.spoj.com/users/artur_pas/)&nbsp;
+-->
 
-<img alt="monkey coding gif" width="100%" height="400" src="/imgs/_for_readme/monkey_coding.webp">
-</div>
+<img alt="monkey coding gif" width="100%" height="400" src="/imgs/_for_readme/monkey-developer.gif">
+<!--
+<img alt="" width="49.5%" src="https://leetcard.jacoblin.cool/ArturPas?height=195"> <img alt="" width="49.5%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">
+[Portfolio](https://pas-artur.000webhostapp.com)
+-->
+</div> 
 
 <details open> 
   <summary><h2>🐵 About me</h2></summary>
@@ -22,21 +28,21 @@
   I'm a computer science student and a graduate of a technical school in computer science. My hobby is programming and I'm primarily self-taught. At this moment I have no commercial experience nor a job.
   <br><br>
 
-- 🌱 I'm currently learning: Figma, Linux
-- 🔭 I’m working on: prolog interpreter with visualisation, logic gates simulator
+- 🌱 I'm currently learning: Spring, Neo4j, Haskell, Prolog  
+- 🔭 I’m working on: my Codewars and LeetCode solutions showcase, logic gates simulator
 - 🚩 My goal is just to be a happy normal human being
-- 🔍 Take a look at my projects on my [Portfolio](https://pas-artur.000webhostapp.com) or [CodePen](https://codepen.io/Pasek108)
+- 🔍 Take a look at my projects below and on [CodePen](https://codepen.io/Pasek108)
 - ⭐ I like to solve problems and challenge myself on coding platforms:
   - [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108) - web development challenges
   - [CSSBattle](https://cssbattle.dev/player/artur_pas) - fun CSS challenges with goal to recreate target images with the least code length possible
   - [LeetCode](https://leetcode.com/ArturPas/) - coding and algorithmic problems used as a resource for technical interviews. Problems are short and focused on solution time and space complexity 
   - [Codewars](https://www.codewars.com/users/Artur%20Pas) - gamified coding challenges. Problems can be long but solution has to just pass the tests and execute under the time limit
-  - [SPOJ](https://pl.spoj.com/users/artur_pas/) - online judge system with many programming problems. Challanges are often described with stories, similar to school competitions
+  - [SPOJ (PL)](https://pl.spoj.com/users/artur_pas/) - online judge system with many programming problems. Challanges are often described with stories, similar to school competitions
 
 </div>
 </details> 
 
-<!-- ------------------- Languages and tools ------------------- -->
+<!-- ------------------- Languages and tools -------------------
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -101,11 +107,12 @@
 </details> 
 
 <br>
-
+ -->
 <!-- ------------------- My projects ------------------- -->
 <details open> 
   <summary><h2>📂 My projects</h2></summary>
 <div align="center">
+  
 <a href="https://github.com/Pasek108/TicTacToe">
 <picture>
   <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TicTacToe&theme=github_dark&icon_color=F8D866">
@@ -129,6 +136,46 @@
   <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=GoblinSlayer&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a>
+
+<a href="https://github.com/Pasek108/DeerKiller">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>
+
+<a href="https://github.com/Pasek108/CSSBattle-Solutions">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=CSSBattle-Solutions&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=CSSBattle-Solutions">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=CSSBattle-Solutions&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>   
+
+<a href="https://github.com/Pasek108/Codewars-Solutions">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Codewars-Solutions&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Codewars-Solutions">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=Codewars-Solutions&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>   
+
+<a href="https://github.com/Pasek108/FM-WhereInTheWorld">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-WhereInTheWorld&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-WhereInTheWorld">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-WhereInTheWorld&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>   
+
+<a href="https://github.com/Pasek108/FM-RockPaperScissors">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissors&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissors">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-RockPaperScissors&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>
    
 <a href="https://github.com/Pasek108/Weather">
 <picture>
@@ -146,14 +193,6 @@
 </picture>
 </a>
    
-<a href="https://github.com/Pasek108/DeerKiller">
-<picture>
-  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866">
-  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller">
-  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=DeerKiller&theme=github_dark&icon_color=F8D866" />
-</picture>
-</a>
-   
 <a href="https://github.com/Pasek108/TimeApp">
 <picture>
   <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866">
@@ -161,5 +200,14 @@
   <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=TimeApp&theme=github_dark&icon_color=F8D866" />
 </picture>
 </a> 
+
+<a href="https://github.com/Pasek108/FM-LaunchCountdownTimer">
+<picture>
+  <source width="49%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-LaunchCountdownTimer&theme=github_dark&icon_color=F8D866">
+  <source width="49%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-LaunchCountdownTimer">
+  <img width="49%" alt="project card" src="https://pasek108-5b3r.vercel.app/api/pin/?username=Pasek108&repo=FM-LaunchCountdownTimer&theme=github_dark&icon_color=F8D866" />
+</picture>
+</a>
+
 </div>
 </details> 
