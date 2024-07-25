@@ -15,7 +15,7 @@
 [![SPOJ](https://img.shields.io/badge/Spoj-337AB7?style=for-the-badge&logo=spoj&logoColor=white)](https://pl.spoj.com/users/artur_pas/)&nbsp;
 -->
 
-<img alt="monkey coding gif" width="100%" height="400" src="/imgs/_for_readme/monkey-developer.gif">
+<img alt="monkey coding gif" width="100%" height="400" src="/imgs/_for_readme/monkey-developer.webp">
 <!--
 <img alt="" width="49.5%" src="https://leetcard.jacoblin.cool/ArturPas?height=195"> <img alt="" width="49.5%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">
 [Portfolio](https://pas-artur.000webhostapp.com)
