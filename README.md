@@ -50,7 +50,7 @@
 
 </div>
 
-## Tasks
+## 📋 Tasks
 - [x] Be born  
 - [x] Finish primary school
 - [x] Finish high school
