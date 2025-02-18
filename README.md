@@ -1,5 +1,5 @@
 <h1 align="center">
-  🐒 Hi, I'm [Artur Pas](https://pasek108.github.io/Resume) 🐒
+  🐒 Hi, I'm <a href="https://pasek108.github.io/Resume" target="_blank">Artur Pas</a> 🐒
   <!-- <a href="https://pas-artur.000webhostapp.com"><img alt="portfolio icon" width="36" align="center" src="/imgs/_for_readme/portfolio.png"></a>
   <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="32" align="center" src="/imgs/_for_readme/linkedin.png"></a> -->
 </h1>
@@ -49,13 +49,6 @@
 
 
 ## Tasks
-
-<picture>
-  <source align="right" width="400" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=400&langs_count=20">
-  <source align="right" width="400" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&size_weight=0.5&count_weight=0.5&card_width=400&langs_count=20">
-  <img align="right" width="400" alt="Github stats languages" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=400&langs_count=20" />
-</picture>
-
 - [x] Be born  
 - [x] Finish primary school
 - [x] Finish high school
@@ -71,9 +64,16 @@
 - [ ] Retire  
 - [ ] Die (eventually 😅)  
 
-<br><br><br>
+<br>
+<picture>
+  <source align="right" width="100%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact">
+  <source align="right" width="100%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact">
+  <img align="right" width="100%" alt="Github stats languages" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact" />
+</picture>
+<br>
+
 <div align="center" >
-  <h3> Show some ❤️ by starring some of the repositories! </h3>
+  <br><h3> Show some ❤️ by starring some of the repositories! </h3>
 </div>
 
 <!-- ------------------- Languages and tools -------------------
