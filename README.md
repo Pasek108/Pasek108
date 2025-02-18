@@ -16,12 +16,10 @@
 -->
 
 <img alt="monkey coding gif" width="100%"  src="/imgs/_for_readme/monkey-developer.webp">
-<!--
-<img alt="" width="49.5%" src="https://leetcard.jacoblin.cool/ArturPas?height=195"> <img alt="" width="49.5%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">
-[Portfolio](https://pas-artur.000webhostapp.com)
--->
-</div> 
 
+<img alt="" width="49.5%" src="https://leetcard.jacoblin.cool/ArturPas?height=195"> <img alt="" width="49.5%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">
+
+</div> 
 
 <h2>🐵 About me</h2>
 <div>
@@ -47,7 +45,6 @@
 
 </div>
 
-
 ## Tasks
 - [x] Be born  
 - [x] Finish primary school
@@ -61,7 +58,6 @@
 - [ ] Get married    
 - [ ] Have children 
 - [ ] Achieve a lifelong dream  
-- [ ] Retire  
 - [ ] Die (eventually 😅)  
 
 <br>
@@ -70,10 +66,9 @@
   <source align="right" width="100%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact">
   <img align="right" width="100%" alt="Github stats languages" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact" />
 </picture>
-<br>
 
 <div align="center" >
-  <br><h3> Show some ❤️ by starring some of the repositories! </h3>
+  <h3> Show some ❤️ by starring some of the repositories! </h3>
 </div>
 
 <!-- ------------------- Languages and tools -------------------
