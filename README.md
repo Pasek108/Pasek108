@@ -42,11 +42,11 @@
   - [Khan Academy](https://en.khanacademy.org/profile/Pasek081/) - general knowledge
   - [Duolingo](https://www.duolingo.com/profile/ArturPas) - languages
 - ⭐ I like to solve problems and challenge myself on coding platforms:
-  - [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108) - Web development challenges
-  - [CSSBattle](https://cssbattle.dev/player/artur_pas) - Minimal-code CSS puzzles
-  - [LeetCode](https://leetcode.com/ArturPas/) - Algorithmic problems for technical interviews
-  - [Codewars](https://www.codewars.com/users/Artur%20Pas) - Gamified coding challenges
-  - [SPOJ (PL)](https://pl.spoj.com/users/artur_pas/) - Narrative-driven programming problems
+  - [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108) - web development challenges
+  - [CSSBattle](https://cssbattle.dev/player/artur_pas) - minimal-code CSS puzzles
+  - [LeetCode](https://leetcode.com/ArturPas/) - algorithmic problems for technical interviews
+  - [Codewars](https://www.codewars.com/users/Artur%20Pas) - gamified coding challenges
+  - [SPOJ (PL)](https://pl.spoj.com/users/artur_pas/) - narrative-driven programming problems
 
 </div>
 
