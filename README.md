@@ -17,7 +17,12 @@
 
 <img alt="monkey coding gif" width="100%"  src="/imgs/_for_readme/monkey-developer.webp">
 
-<img alt="" width="49.5%" src="https://leetcard.jacoblin.cool/ArturPas?height=195"> <img alt="" width="49.5%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">
+<a href="https://leetcode.com/ArturPas/" target="_blank">
+  <img alt="" width="49.5%" src="https://leetcard.jacoblin.cool/ArturPas?height=195">
+</a>
+<a href="https://www.codewars.com/users/Artur%20Pas" target="_blank">
+  <img alt="" width="49.5%" src="https://github.r2v.ch/codewars?user=Artur%20Pas&stroke=%23BB432C">
+</a>   
 
 </div> 
 
