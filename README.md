@@ -49,6 +49,13 @@
 
 
 ## Tasks
+
+<picture>
+  <source align="right" width="400" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=400&langs_count=20">
+  <source align="right" width="400" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&size_weight=0.5&count_weight=0.5&card_width=400&langs_count=20">
+  <img align="right" width="400" alt="Github stats languages" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=400&langs_count=20" />
+</picture>
+
 - [x] Be born  
 - [x] Finish primary school
 - [x] Finish high school
@@ -64,7 +71,8 @@
 - [ ] Retire  
 - [ ] Die (eventually 😅)  
 
-<div align="center">
+<br><br><br>
+<div align="center" >
   <h3> Show some ❤️ by starring some of the repositories! </h3>
 </div>
 
