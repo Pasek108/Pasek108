@@ -22,25 +22,51 @@
 -->
 </div> 
 
-<details open> 
-  <summary><h2>🐵 About me</h2></summary>
-  <div>
-  I'm a computer science student and a graduate of a technical school in computer science. My hobby is programming and I'm primarily self-taught. At this moment I have no commercial experience nor a job.
+
+<h2>🐵 About me</h2>
+<div>
+  I am a Computer Science student and a graduate of a technical school specializing in computer science. Passionate about programming, I have primarily developed my skills through self-learning and hands on projects. While I currently have no commercial experience, I am eager to apply my knowledge in a professional setting and continuously expand my expertise.
   <br><br>
 
-- 🌱 I'm currently learning: Spring, Neo4j, Haskell, Prolog  
-- 🔭 I’m working on: my Codewars and LeetCode solutions showcase, logic gates simulator
+- 🔍 Take a look at my [Portfolio](https://pasek108.github.io/Resume) and on [CodePen](https://codepen.io/Pasek108)
+- 🌱 I'm currently learning: Angular, Vue.js
+- 🔭 I’m working on: finding a job
 - 🚩 My goal is just to be a happy normal human being
-- 🔍 Take a look at my projects below and on [CodePen](https://codepen.io/Pasek108)
+- 📚 I'm expanding my knowledge using:
+  - [The Odin Project](https://www.theodinproject.com/) - open source web development curriculum
+  - [Harvard CS50 courses](https://pll.harvard.edu/catalog?topics%5B702%5D=702&price%5B1%5D=1&max_price=&start_date=&keywords=&url=) - an entry-level courses taught by David J. Malan
+  - [Sololearn](https://www.sololearn.com/en/profile/26430308) - basics of various programming languages
+  - [Khan Academy](https://en.khanacademy.org/profile/Pasek081/) - general knowledge
+  - [Duolingo](https://www.duolingo.com/profile/ArturPas) - languages
 - ⭐ I like to solve problems and challenge myself on coding platforms:
-  - [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108) - web development challenges
-  - [CSSBattle](https://cssbattle.dev/player/artur_pas) - fun CSS challenges with goal to recreate target images with the least code length possible
-  - [LeetCode](https://leetcode.com/ArturPas/) - coding and algorithmic problems used as a resource for technical interviews. Problems are short and focused on solution time and space complexity 
-  - [Codewars](https://www.codewars.com/users/Artur%20Pas) - gamified coding challenges. Problems can be long but solution has to just pass the tests and execute under the time limit
-  - [SPOJ (PL)](https://pl.spoj.com/users/artur_pas/) - online judge system with many programming problems. Challanges are often described with stories, similar to school competitions
+  - [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108) - Web development challenges
+  - [CSSBattle](https://cssbattle.dev/player/artur_pas) - Minimal-code CSS puzzles
+  - [LeetCode](https://leetcode.com/ArturPas/) - Algorithmic problems for technical interviews
+  - [Codewars](https://www.codewars.com/users/Artur%20Pas) - Gamified coding challenges
+  - [SPOJ (PL)](https://pl.spoj.com/users/artur_pas/) - Narrative-driven programming problems
 
 </div>
-</details> 
+
+
+## Tasks
+- [x] Be born  
+- [x] Finish primary school
+- [x] Finish high school
+- [x] Learn programming
+- [x] Get a driver's license  
+- [ ] Graduate from university
+- [x] Build portfolio 
+- [ ] Get a job  
+- [ ] Fall in love  
+- [ ] Get married    
+- [ ] Have children 
+- [ ] Achieve a lifelong dream  
+- [ ] Retire  
+- [ ] Die (eventually 😅)  
+
+<div align="center">
+  <h3> Show some ❤️ by starring some of the repositories! </h3>
+</div>
 
 <!-- ------------------- Languages and tools -------------------
 <details open> 
@@ -108,7 +134,7 @@
 
 <br>
  -->
-<!-- ------------------- My projects ------------------- -->
+<!-- ------------------- My projects ------------------- 
 <details open> 
   <summary><h2>📂 My projects</h2></summary>
 <div align="center">
@@ -211,3 +237,4 @@
 
 </div>
 </details> 
+-->
