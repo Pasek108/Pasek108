@@ -1,5 +1,5 @@
 <h1 align="center">
-  🐒 Hi, I'm Artur Pas 🐒
+  🐒 Hi, I'm [Artur Pas](https://pasek108.github.io/Resume) 🐒
   <!-- <a href="https://pas-artur.000webhostapp.com"><img alt="portfolio icon" width="36" align="center" src="/imgs/_for_readme/portfolio.png"></a>
   <a href="https://www.linkedin.com/in/artur-pas/"><img alt="linkedin icon" width="32" align="center" src="/imgs/_for_readme/linkedin.png"></a> -->
 </h1>
