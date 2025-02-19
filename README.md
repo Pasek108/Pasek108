@@ -34,7 +34,7 @@
 - 🔍 Take a look at my [Portfolio](https://pasek108.github.io/Resume) and on [CodePen](https://codepen.io/Pasek108)
 - 🌱 I'm currently learning: Angular, Vue.js
 - 🔭 I’m working on: finding a job
-- 🚩 My goal is just to be a happy normal human being
+- 🚩 My goal is just to be a happy
 - ⭐ I like to solve problems and challenge myself on coding platforms:
   - [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108) - web development challenges
   - [CSSBattle](https://cssbattle.dev/player/artur_pas) - minimal-code CSS puzzles
