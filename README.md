@@ -35,18 +35,18 @@
 - 🌱 I'm currently learning: Angular, Vue.js
 - 🔭 I’m working on: finding a job
 - 🚩 My goal is just to be a happy normal human being
-- 📚 I'm expanding my knowledge using:
-  - [The Odin Project](https://www.theodinproject.com/) - open source web development curriculum
-  - [Harvard CS50 courses](https://pll.harvard.edu/catalog?topics%5B702%5D=702&price%5B1%5D=1&max_price=&start_date=&keywords=&url=) - an entry-level courses taught by David J. Malan
-  - [Sololearn](https://www.sololearn.com/en/profile/26430308) - basics of various programming languages
-  - [Khan Academy](https://en.khanacademy.org/profile/Pasek081/) - general knowledge
-  - [Duolingo](https://www.duolingo.com/profile/ArturPas) - languages
 - ⭐ I like to solve problems and challenge myself on coding platforms:
   - [Frontend Mentor](https://www.frontendmentor.io/profile/Pasek108) - web development challenges
   - [CSSBattle](https://cssbattle.dev/player/artur_pas) - minimal-code CSS puzzles
   - [LeetCode](https://leetcode.com/ArturPas/) - algorithmic problems for technical interviews
   - [Codewars](https://www.codewars.com/users/Artur%20Pas) - gamified coding challenges
   - [SPOJ (PL)](https://pl.spoj.com/users/artur_pas/) - narrative-driven programming problems
+- 📚 I'm expanding my knowledge using:
+  - [The Odin Project](https://www.theodinproject.com/) - open source web development curriculum
+  - [Harvard CS50 courses](https://pll.harvard.edu/catalog?topics%5B702%5D=702&price%5B1%5D=1&max_price=&start_date=&keywords=&url=) - an entry-level courses taught by David J. Malan
+  - [Sololearn](https://www.sololearn.com/en/profile/26430308) - basics of various programming languages
+  - [Khan Academy](https://en.khanacademy.org/profile/Pasek081/) - general knowledge
+  - [Duolingo](https://www.duolingo.com/profile/ArturPas) - languages
 
 </div>
 
