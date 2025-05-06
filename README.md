@@ -50,6 +50,19 @@
 
 </div>
 
+<br>
+<picture>
+  <source align="right" width="100%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact">
+  <source align="right" width="100%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact">
+  <img align="right" width="100%" alt="Github stats languages" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact" />
+</picture>
+
+<div align="center" >
+  <h3> Show some ❤️ by starring some of the repositories! </h3>
+</div>
+
+<!-- ------------------- Languages and tools -------------------
+
 ## 📋 Tasks
 - [x] Be born  
 - [x] Finish primary school
@@ -65,18 +78,6 @@
 - [ ] Achieve a lifelong dream  
 - [ ] Die (eventually 😅)  
 
-<br>
-<picture>
-  <source align="right" width="100%" media="(prefers-color-scheme: dark)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact">
-  <source align="right" width="100%" media="(prefers-color-scheme: light)" srcset="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact">
-  <img align="right" width="100%" alt="Github stats languages" src="https://pasek108-5b3r.vercel.app/api/top-langs/?username=Pasek108&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5&card_width=800&langs_count=20&layout=compact" />
-</picture>
-
-<div align="center" >
-  <h3> Show some ❤️ by starring some of the repositories! </h3>
-</div>
-
-<!-- ------------------- Languages and tools -------------------
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
